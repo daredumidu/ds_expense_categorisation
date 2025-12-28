@@ -39,9 +39,9 @@
  Make sure you have Python 3.8+ installed.  
   
  Install dependencies
-  
+ ```bash 
  pip install pandas openpyxl  
-  
+ ``` 
  ---  
   
  ## ▶️ How to Use  
