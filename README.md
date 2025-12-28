@@ -100,8 +100,3 @@
  If you’d like to add new features (charts, dashboards, CLI options), feel free to open an issue.  
   
  ---  
-  
- ## 📜 License  
-  
- This project is released under the MIT License.
-<img width="65" height="32766" alt="image" src="https://github.com/user-attachments/assets/dd88c6fc-8629-4bea-b016-0350f638e269" />
