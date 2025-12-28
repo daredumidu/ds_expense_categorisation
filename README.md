@@ -1,12 +1,12 @@
-LINE 1: # 📊 Annual Expense Summary Script  
-LINE 2:  
-LINE 3: This repository contains a Python script that reads an Excel file with annual expenses and generates a clean, structured Category × Month summary table. The output is saved as a CSV file for easy use in Excel, Power BI, or financial dashboards.  
-LINE 4:  
-LINE 5: The script is ideal for anyone who wants to automate personal or household expense tracking.  
-LINE 6:  
-LINE 7: ---  
-LINE 8:  
-LINE 9: ## 📁 Features  
+# 📊 Annual Expense Summary Script  
+
+This repository contains a Python script that reads an Excel file with annual expenses and generates a clean, structured Category × Month summary table. The output is saved as a CSV file for easy use in Excel, Power BI, or financial dashboards.  
+ 
+The script is ideal for anyone who wants to automate personal or household expense tracking.  
+
+---  
+
+## 📁 Features  
 LINE 10:  
 LINE 11: - Reads data from the "expenses" tab of an Excel workbook  
 LINE 12: - Automatically groups expenses by month and category  
