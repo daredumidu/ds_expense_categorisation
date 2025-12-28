@@ -29,9 +29,9 @@
  | amount | Numeric value of the expense |  
   
  ### Supported Categories  
-  
+ ``` 
  rent, car installment, electricity, mobile, transport, groceries, subscription, maintenance, other, restaurants, shopping, total  
-  
+ ```
  ---  
   
  ## 🛠️ Requirements  
@@ -49,9 +49,9 @@
  1. Place your Excel file (e.g., annual_expenses.xlsx) in the same directory as the script.  
  2. Ensure the data is inside a sheet named expenses.  
  3. Run the script
-  
- python expense_summary.py  
-  
+```bash
+ python expense_summary.py
+```
  4. After execution, a file named
   
  monthly_expense_summary.csv  
